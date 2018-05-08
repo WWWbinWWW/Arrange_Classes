@@ -1,0 +1,7 @@
+﻿  安排教学计划项目1.0.cpp
+安排教学计划项目1.0.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+  正在生成代码
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  安排教学计划项目1.vcxproj -> E:\代码集合\2017年下学期数据结构课\安排教学计划项目1\Release\安排教学计划项目1.exe
